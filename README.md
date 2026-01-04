@@ -27,7 +27,7 @@ Disable Windows Firewall (Optional, try disabling if you can't see other players
 
 Please test on a new save like Alternate Start - Live Another Life SSE
 Do not try this on your main save yet!
-Find at least 2 people and stay in the same cell to see their LUMIS 'Magelight' Avatar
+Find at least one other player and stay in the same cell to see their LUMIS 'Magelight' Avatar
 The max is 8 players per cell.
 
 
