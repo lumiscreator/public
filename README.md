@@ -25,9 +25,5 @@ Download the Latest supported v14
 
 Disable Windows Firewall (Optional, try disabling if you can't see other players avatars but it works for me when enabled)
 
-Please test on a new save like Alternate Start - Live Another Life SSE
-Do not try this on your main save yet!
 Find at least one other player and stay in the same cell to see their LUMIS 'Magelight' Avatar
-The max is 8 players per cell.
-
-
+The max is 8 players per local area within 4500 units
