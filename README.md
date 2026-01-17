@@ -30,6 +30,8 @@ Disable Windows Firewall (Optional, try disabling if you can't see other players
 Find at least one other player and stay in the cell/worldspace within 4500 units to see their LUMIS 'Magelight' Avatar
 The max is 8 players per local area within 4500 units
 
+
+
 LUMIS - TERMS OF SERVICE AND END USER LICENSE AGREEMENT
 
 1. COPYRIGHT NOTICE
