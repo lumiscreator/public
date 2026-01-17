@@ -45,7 +45,7 @@ Subject to your compliance with these Terms, LUMIS grants you a personal, non-ex
 3. RESTRICTIONS ON USE (NO COPYING)
 You agree that you will **NOT**:
 
-• Redistribute: Copy, reproduce, publish, host, or distribute the Software, in whole or in part, on any medium (including but not limited to Nexus Mods, GitHub, Discord, or private file hosting) without express written permission from Lumis.
+• Redistribute: Copy, reproduce, publish, host, or distribute the Software, in whole or in part, on any medium (including but not limited to Nexus Mods, GitHub, Discord, or private file hosting) without express written permission from Steven Kröhn.
 • Modify: Modify, adapt, translate, or create derivative works based on the Software. This includes altering the source code to bypass Patreon verification, queue logic, or client version checks.
 • Reverse Engineer: Reverse engineer, decompile, disassemble, or attempt to derive the source code of the compiled Plugin (`LumisPlugin.dll` derivatives) or the Server logic, except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation.
 • Server Hosting: Use the provided server-side code to host public or private instances of the LUMIS Multiverse backend that compete with, mimic, or replace the official LUMIS service.
@@ -63,7 +63,7 @@ This Software interacts with third-party libraries and platforms, including but 
 The licenses for these third-party components are separate from the proprietary license of the LUMIS code. Usage of these libraries does not grant you the right to copy or redistribute the LUMIS proprietary logic utilizing them.
 
 6. TERMINATION
-This Agreement is effective until terminated. Your rights under this Agreement will terminate automatically without notice from Lumis if you fail to comply with any term(s) of this Agreement. Upon termination, you must cease all use of the Software and destroy all copies, full or partial, of the Software.
+This Agreement is effective until terminated. Your rights under this Agreement will terminate automatically without notice from LUMIS if you fail to comply with any term(s) of this Agreement. Upon termination, you must cease all use of the Software and destroy all copies, full or partial, of the Software.
 
 7. DISCLAIMER OF WARRANTY
 THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND. THE AUTHOR EXPRESSLY DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE SAFETY OF YOUR GAME SAVE FILES, STABILITY OF THE SKYRIM CLIENT, OR CONTINUED AVAILABILITY OF THE ONLINE SERVICE.
