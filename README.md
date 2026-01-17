@@ -16,6 +16,8 @@ https://www.nexusmods.com/skyrimspecialedition/mods/13048
 JContainers SE
 https://www.nexusmods.com/skyrimspecialedition/mods/16495
 
+SkyUI (For LUMIS MCM)
+
 Alternate Start - Live Another Life - SSE (Recommended)
 https://www.nexusmods.com/skyrimspecialedition/mods/272
 
