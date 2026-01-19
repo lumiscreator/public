@@ -32,14 +32,37 @@ The max is 8 players per local area within 4500 units
 
 
 
+COPYRIGHT NOTICE:
+Copyright © 2026 LUMIS by Steven Kröhn. All Rights Reserved.
+
+2. SOURCE AVAILABLE LICENSE
+The source code in this repository is provided for educational purposes, security verification, and to support the community self-hosting ecosystem.
+
+3. GRANT OF LICENSE (RIGHTS YOU HAVE)
+Lumis grants you a limited, non-exclusive, revocable license to:
+
+1. **Inspect:** View and inspect the source code to verify its safety, security, and functionality.
+2. **Compile:** Compile the client-side code (`.cpp`, `.psc`) for your own personal, private use on your own machine.
+3. **Host Servers:** Execute, host, and deploy the server-side code (`server.py` and associated backend logic) to run private or public multiplayer sessions ("Private Servers").
+
+4. RESTRICTIONS (THINGS YOU CANNOT DO)
+You agree that you will **NOT**:
+
+1. **Redistribute Binaries:** Upload, host, or distribute compiled versions of the client software (`LumisPlugin.dll` or similar) on any platform. Users must obtain the official client binaries from the official LUMIS distribution channels (e.g., Nexus Mods).
+2. **Bypass Gates:** Modify the source code to bypass, disable, or alter the intended functionality of authentication checks, version control gates, or "Queue" logic.
+3. **Redistribute Forks:** Create, publish, or distribute derivative works, "forks," or modified versions of the source code for public download. (Pull requests to the official repository are welcome, but independent competing forks are prohibited).
+4. **Commercial Sale:** Sell, rent, or lease the source code itself. (Note: Accepting voluntary donations to cover server hosting costs for your Private Server is permitted, provided it does not violate the terms of the third-party platform host).
+
+5. SERVICE INTERACTION
+This software may interact with the official LUMIS Multiverse service. Use of the official service is governed by the Terms of Service found at: https://github.com/lumiscreator/public
+
+
 LUMIS - TERMS OF SERVICE AND END USER LICENSE AGREEMENT
 
-1. COPYRIGHT NOTICE
-Copyright © 2026 LUMIS by Steven Kröhn. All Rights Reserved.
 
 The software, source code, assets, and accompanying documentation known as "LUMIS" (specifically including but not limited to `LumisMCM.pex`, `LumisGhostManager.pex`, and `LumisPlugin.dll`) are the intellectual property of the author ("Steven Kröhn"). The Software is protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.
 
-2. GRANT OF LICENSE
+2. GRANT OF SOURCE AVAILABLE LICENSE
 Subject to your compliance with these Terms, LUMIS grants you a personal, non-exclusive, non-transferable, revocable license to install and use the client-side portion of the Software solely for personal, non-commercial entertainment purposes in conjunction with *The Elder Scrolls V: Skyrim*.
 
 3. RESTRICTIONS ON USE (NO COPYING)
@@ -48,8 +71,7 @@ You agree that you will **NOT**:
 • Redistribute: Copy, reproduce, publish, host, or distribute the Software, in whole or in part, on any medium (including but not limited to Nexus Mods, GitHub, Discord, or private file hosting) without express written permission from Steven Kröhn.
 • Modify: Modify, adapt, translate, or create derivative works based on the Software. This includes altering the source code to bypass Patreon verification, queue logic, or client version checks.
 • Reverse Engineer: Reverse engineer, decompile, disassemble, or attempt to derive the source code of the compiled Plugin (`LumisPlugin.dll` derivatives) or the Server logic, except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation.
-• Server Hosting: Use the provided server-side code to host public or private instances of the LUMIS Multiverse backend that compete with, mimic, or replace the official LUMIS service.
-• Bypass Restrictions: Use any third-party software or modified code to circumvent the "Queue Gate," "Patreon Verification," or "Banned IP" protocols established in the Software.
+• Bypass Restrictions: Use any third-party software or modified code to circumvent the "Queue Gate" or "Banned IP" protocols established in the Software.
 
 4. PROPRIETARY RIGHTS
 All title and copyrights in and to the Software (including but not limited to any code, images, applets, photographs, animations, video, audio, music, and text incorporated into the Software) are owned by Steven Kröhn. This Agreement grants you no rights to use such content other than as part of the Software.
