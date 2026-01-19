@@ -20,4 +20,36 @@ You agree that you will **NOT**:
 4. **Commercial Sale:** Sell, rent, or lease the source code itself. (Note: Accepting voluntary donations to cover server hosting costs for your Private Server is permitted, provided it does not violate the terms of the third-party platform host).
 
 5. SERVICE INTERACTION
-This software may interact with the official LUMIS Multiverse service. Use of the official service is governed by the Terms of Service found at: https://github.com/lumiscreator/public
+This software may interact with the official LUMIS Multiverse service. Use of the official service is governed by the Terms of Service:
+
+LUMIS - TERMS OF SERVICE AND END USER LICENSE AGREEMENT
+
+The software, source code, assets, and accompanying documentation known as "LUMIS" (specifically including but not limited to `LumisMCM.pex`, `LumisGhostManager.pex`, and `LumisPlugin.dll`) are the intellectual property of the author ("Steven Kröhn"). The Software is protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.
+
+2. GRANT OF SOURCE AVAILABLE LICENSE
+Subject to your compliance with these Terms, LUMIS grants you a personal, non-exclusive, non-transferable, revocable license to install and use the client-side portion of the Software solely for personal, non-commercial entertainment purposes in conjunction with *The Elder Scrolls V: Skyrim*.
+
+3. RESTRICTIONS ON USE (NO COPYING)
+You agree that you will **NOT**:
+
+• Redistribute: Copy, reproduce, publish, host, or distribute the Software, in whole or in part, on any medium (including but not limited to Nexus Mods, GitHub, Discord, or private file hosting) without express written permission from Steven Kröhn.
+• Modify: Modify, adapt, translate, or create derivative works based on the Software. This includes altering the source code to bypass Patreon verification, queue logic, or client version checks.
+• Reverse Engineer: Reverse engineer, decompile, disassemble, or attempt to derive the source code of the compiled Plugin (`LumisPlugin.dll` derivatives) or the Server logic, except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation.
+• Bypass Restrictions: Use any third-party software or modified code to circumvent the "Queue Gate" or "Banned IP" protocols established in the Software.
+
+4. PROPRIETARY RIGHTS
+All title and copyrights in and to the Software (including but not limited to any code, images, applets, photographs, animations, video, audio, music, and text incorporated into the Software) are owned by Steven Kröhn. This Agreement grants you no rights to use such content other than as part of the Software.
+
+5. THIRD-PARTY COMPONENTS
+This Software interacts with third-party libraries and platforms, including but not limited to:
+
+• SKSE (Skyrim Script Extender):** Used under its respective license.
+• Patreon API: Used for authentication.
+• Python/Flask: Used for the server backend.
+The licenses for these third-party components are separate from the proprietary license of the LUMIS code. Usage of these libraries does not grant you the right to copy or redistribute the LUMIS proprietary logic utilizing them.
+
+6. TERMINATION
+This Agreement is effective until terminated. Your rights under this Agreement will terminate automatically without notice from LUMIS if you fail to comply with any term(s) of this Agreement. Upon termination, you must cease all use of the Software and destroy all copies, full or partial, of the Software.
+
+7. DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND. THE AUTHOR EXPRESSLY DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE SAFETY OF YOUR GAME SAVE FILES, STABILITY OF THE SKYRIM CLIENT, OR CONTINUED AVAILABILITY OF THE ONLINE SERVICE.
