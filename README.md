@@ -69,7 +69,7 @@ Subject to your compliance with these Terms, LUMIS grants you a personal, non-ex
 You agree that you will **NOT**:
 
 • Redistribute: Copy, reproduce, publish, host, or distribute the Software, in whole or in part, on any medium (including but not limited to Nexus Mods, GitHub, Discord, or private file hosting) without express written permission from Steven Kröhn.
-• Modify: Modify, adapt, translate, or create derivative works based on the Software. This includes altering the source code to bypass Patreon verification, queue logic, or client version checks.
+• Modify: Modify, adapt, translate, or create derivative works based on the Software. This includes altering the source code to bypass, queue logic, or client version checks.
 • Reverse Engineer: Reverse engineer, decompile, disassemble, or attempt to derive the source code of the compiled Plugin (`LumisPlugin.dll` derivatives) or the Server logic, except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation.
 • Bypass Restrictions: Use any third-party software or modified code to circumvent the "Queue Gate" or "Banned IP" protocols established in the Software.
 
@@ -80,7 +80,6 @@ All title and copyrights in and to the Software (including but not limited to an
 This Software interacts with third-party libraries and platforms, including but not limited to:
 
 • SKSE (Skyrim Script Extender):** Used under its respective license.
-• Patreon API: Used for authentication.
 • Python/Flask: Used for the server backend.
 The licenses for these third-party components are separate from the proprietary license of the LUMIS code. Usage of these libraries does not grant you the right to copy or redistribute the LUMIS proprietary logic utilizing them.
 
